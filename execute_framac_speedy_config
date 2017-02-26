@@ -1,0 +1,8 @@
+{
+    "TEMP_DIR" : "/path/to/temp",
+    "FRAMAC_LOC" : "/path/to/frama-c.exe",
+    "SPEEDY_JAR_LOC" : "/path/to/SpeedyCore.jar",
+    "JAVA_HOME" : "/path/to/java-home",
+    "FRAMAC_WP_FLAGS": [],
+    "USE_SPEEDY" : "No"
+}
